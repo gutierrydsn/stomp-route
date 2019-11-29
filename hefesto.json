@@ -5,6 +5,6 @@
   "author": "Gutierry Pereira &lt;gutierrydsn@hotmail.com.com",
   "license": "",
   "dependencies": {
-    "stomp-client": {"repository" : "https://git-unj.softplan.com.br/unj-integracoes/delphistompclient.git", "branch" : "1.0.0"}
+    "stomp-client": {"repository" : "https://github.com/danieleteti/delphistompclient.git", "branch" : "1.0.0"}
   }
 }
